@@ -1,1 +1,55 @@
-# hello-github
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>山田太郎について</title>
+  <link rel="icon" href="favicon.ico">
+  <meta name="description" content="山田太郎について。">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li class="current">
+          <a href="index.html">
+            HOME
+          </a>
+        </li>
+        <li>
+          <a href="about.html">
+            ABOUT
+          </a>
+        </li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="about">
+    <img src="img/taro.png" width="140" height="140" alt="太郎のアイコン" class="icon">
+    <h1>山田太郎</h1>
+    <p>山田太郎の紹介です。山田太郎の紹介です。山田太郎の紹介です。山田太郎の紹介です。
+      山田太郎の紹介です。山田太郎の紹介です。山田太郎の紹介です。山田太郎の紹介です。</p>
+
+  <footer>
+    <ul>
+      <li>
+        <a href="mailto:soccer4.kzm8@gmail.com" target="_blank">
+          <img src="img/mail.png" width="20" height="20" alt="メール送信"></li>
+        </a>
+      <li>
+        <a href="http://dotinstall.com" target="_blank">
+          <img src="img/blog.png" width="20" height="20" alt="ブログサイトへ"></li>
+        </a>
+      <li>
+        <a href="http://dotinstall.com" target="_blank">
+          <img src="img/photos.png" width="20" height="20" alt="写真サイトへ"></li>
+        </a>
+    </ul>
+    <p>(c) Taro Yamada</p>
+  </footer>
+
+</body>
+
+</html>
